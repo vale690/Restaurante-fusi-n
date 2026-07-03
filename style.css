@@ -120,7 +120,7 @@ nav a{
 
 text-decoration:none;
 
-color:#333;
+color:#D8D8D8;
 
 font-size:18px;
 
@@ -132,11 +132,11 @@ transition:.3s;
 
 nav a:hover{
 
-color:#D4AF37;
+    color:#D4AF37;
 
-border-bottom:2px solid #D4AF37;
+    border-bottom:2px solid #D4AF37;
 
-padding-bottom:4px;
+    padding-bottom:4px;
 
 }
 
